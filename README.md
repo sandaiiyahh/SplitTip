@@ -2,7 +2,7 @@
 
 **SplitTip** is a tip calculator application for iOS.
 
-Submitted by: **Sandy**
+Submitted by: **Sandy Dai**
 
 https://github.com/sandaiiyahh/SplitTip
 

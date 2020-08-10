@@ -2,9 +2,9 @@
 
 **SplitTip** is a tip calculator application for iOS.
 
-Submitted by: **Sandy Dai**
+Submitted by: **Sandy**
 
-Time spent: **7** hours spent in total
+https://github.com/sandaiiyahh/SplitTip Time spent: **7** hours spent in total
 
 ## User Stories
 
@@ -18,26 +18,20 @@ The following **optional** features are implemented:
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
 * [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/FwiOSFLHHu.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [RecordIt](http://www.recordit.co).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+I had different features I wanted to add to my calculator, but wasn't able to implement due to my unfamiliarity with Swift.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2020] [Apache]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

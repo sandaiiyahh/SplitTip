@@ -1,4 +1,4 @@
-# Pre-work - *SplitTip*
+# *SplitTip*
 
 **SplitTip** is a tip calculator application for iOS.
 
@@ -10,14 +10,10 @@ Time spent: **7** hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] Amount of people incrementer/decrementer
+* [x] Settings page option to change the default tip percentage.
 
-The following **optional** features are implemented:
-* [ ] Settings page to change the default tip percentage.
-* [ ] UI animations
-* [ ] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
@@ -27,7 +23,12 @@ Here's a walkthrough of implemented user stories:
 GIF created with [RecordIt](http://www.recordit.co).
 
 ## Notes
-I had different features I wanted to add to my calculator, but wasn't able to implement due to my unfamiliarity with Swift.
+This mini project was created to experiment with XCode and Swift. 
+Additional features I would love to implement: 
+[] Updating tip and total based on amount of people
+[] Remembering the bill amount across app restarts
+[] Calculating the tip per person
+[] Calculating the total per person
 
 ## License
 

@@ -25,10 +25,10 @@ GIF created with [RecordIt](http://www.recordit.co).
 ## Notes
 This mini project was created to experiment with XCode and Swift. 
 Additional features I would love to implement: 
-[] Updating tip and total based on amount of people
-[] Remembering the bill amount across app restarts
-[] Calculating the tip per person
-[] Calculating the total per person
+* [] Updating tip and total based on amount of people
+* [] Remembering the bill amount across app restarts
+* [] Calculating the tip per person
+* [] Calculating the total per person
 
 ## License
 

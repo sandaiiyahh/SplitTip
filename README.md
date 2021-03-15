@@ -4,8 +4,6 @@
 
 Submitted by: **Sandy Dai**
 
-https://github.com/sandaiiyahh/SplitTip
-
 Time spent: **7** hours spent in total
 
 ## User Stories
